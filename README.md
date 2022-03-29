@@ -1,2 +1,2 @@
-# week22homework
-heroku app
+# littletiers
+little tiers
